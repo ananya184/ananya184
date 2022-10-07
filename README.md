@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ananya Bhombore</h1>
-<h3 align="center">A passionate Fullstack Web developer and designer from India</h3>
+<h3 align="center">A passionate Fullstack developer and designer from India</h3>
 
 -  I’m currently learning **UI/UX and designing**
 
